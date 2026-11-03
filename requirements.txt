@@ -1,0 +1,7 @@
+streamlit>=1.40
+geopandas>=1.0
+scikit-learn>=1.5
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+pyogrio>=0.9
